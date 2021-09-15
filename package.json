@@ -8,6 +8,7 @@
     "dev": "next dev",
     "build:next": "next build",
     "build":"npm run build:next",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   }
 }
