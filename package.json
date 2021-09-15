@@ -6,8 +6,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build:next": "next build",
-    "build":"npm run build:next",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   }
